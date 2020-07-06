@@ -1,4 +1,4 @@
 # skrypty
-Repository of script
+Repository of script 1
 
-Repozytorium w którym umieszczane są skrypty w bash
+Search for programs in directories of the PATH variable and check how to the script was run.
